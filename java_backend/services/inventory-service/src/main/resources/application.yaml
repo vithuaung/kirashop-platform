@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: inventory-service
+  docker:
+    compose:
+      enabled: false
